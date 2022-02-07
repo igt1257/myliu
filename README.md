@@ -1,7 +1,7 @@
-/Users/louis/Library/Rime
+/Users/louis/Library/Rime <BR>
+<BR>
 
-
-raspberrypi
-apt-get install ibus-rime
-curl -fsSL https://git.io/rime-install | bash
-bash rime-install bopomofo 
+raspberrypi <BR>
+apt-get install ibus-rime <BR> 
+curl -fsSL https://git.io/rime-install | bash <BR>
+bash rime-install bopomofo <BR>

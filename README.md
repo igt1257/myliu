@@ -28,6 +28,7 @@ root@ubunt22:~# curl -fsSL https://git.io/rime-install | bash <BR>
 root@ubunt22:~# cd /root/plum/ <BR>
 root@ubunt22:~# bash rime-install bopomofo <BR>
 <BR>
+
 louis@ubunt22:~# wget https://github.com/igt1257/myliu/archive/refs/heads/main.zip <BR>
 louis@ubunt22:~# unzip main.zip <BR>
 louis@ubunt22:~# mv myliu-main/* /home/louis/.config/ibus/rime/ <BR>

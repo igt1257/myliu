@@ -1,3 +1,4 @@
+#macOS <BR>
 /Users/louis/Library/Rime <BR>
 <BR>
 
@@ -22,7 +23,6 @@ Preferences > IBus Preferences > Input Method > Add > Chinese > Rime<BR>
 
 
 #Ubuntu <BR>
-louis@ubunt22:~$ sudo su - <BR>
 root@ubunt22:~# apt-get install ibus-rime <BR>
 root@ubunt22:~# curl -fsSL https://git.io/rime-install | bash <BR>
 root@ubunt22:~# cd /root/plum/ <BR>

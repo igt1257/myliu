@@ -35,9 +35,9 @@ louis@ubunt22:~ mv myliu-main/* /home/louis/.config/ibus/rime/ <BR>
 louis@ubunt22:~ ls -l /home/louis/.config/ibus/rime <BR>
 
 #無蝦米 <BR>
-Settings > Keyboard > Input Sources > + > Chinese(Taiwan) > Chinese(Rime) <BR>
+Settings > Keyboard > Input Sources > + > Other > Chinese(Rime) <BR>
 
 louis@ubunt22:~ sudo apt install ibus-chewing
 
 #注音 <BR>
-Settings > Keyboard > Input Sources > + > Chinese(Taiwan) > Chinese(Chewing) <BR>
+Settings > Keyboard > Input Sources > + > Other > Chinese(Chewing) <BR>

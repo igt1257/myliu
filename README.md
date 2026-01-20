@@ -23,10 +23,10 @@ Preferences > IBus Preferences > Input Method > Add > Chinese > Rime<BR>
 
 
 #Ubuntu <BR>
-root@ubunt22:~ apt-get install ibus-rime <BR>
-root@ubunt22:~ curl -fsSL https://git.io/rime-install | bash <BR>
-root@ubunt22:~ cd /root/plum/ <BR>
-root@ubunt22:~ bash rime-install bopomofo <BR>
+louis@ubunt22:~ sudo apt-get install ibus-rime <BR>
+louis@ubunt22:~ sudo curl -fsSL https://git.io/rime-install | bash <BR>
+louis@ubunt22:~ sudo cd ~/plum <BR>
+louis@ubunt22:~ bash rime-install bopomofo <BR>
 <BR>
 
 louis@ubunt22:~ wget https://github.com/igt1257/myliu/archive/refs/heads/main.zip <BR>
@@ -36,6 +36,8 @@ louis@ubunt22:~ ls -l /home/louis/.config/ibus/rime <BR>
 
 #無蝦米 <BR>
 Settings > Keyboard > Input Sources > + > Chinese(Taiwan) > Chinese(Rime) <BR>
+
+louis@ubunt22:~ sudo apt install ibus-chewing
 
 #注音 <BR>
 Settings > Keyboard > Input Sources > + > Chinese(Taiwan) > Chinese(Chewing) <BR>
